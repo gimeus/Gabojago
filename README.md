@@ -1,7 +1,7 @@
 <div align="center">
-<h1>
+<h2>
 실시간 환율 반영 여행 가계부 서비스
-</h1>
+</h2>
 <img src="https://github.com/user-attachments/assets/888add54-9024-4b26-9eef-5c29817a31c7"/>
 <img src="https://github.com/user-attachments/assets/0f39dcd0-0f90-48fe-8632-5e5a8af9b8c3"/>
 <img src="https://github.com/user-attachments/assets/7bc5e876-cbea-4c0d-806c-c2333b885d48"/>
@@ -9,24 +9,24 @@
 
 ⠀
 ⠀
-## ① 프로젝트 기간
+## 프로젝트 기간
 2024.07.13 - 2024.08.04
 
 ⠀
 ⠀
-## ② 프로젝트 소개
+## 프로젝트 소개
 해외 여행 중 환율 변동에 따른 예산 관리를 도와 여행에 집중할 수 있도록 돕는 가계부 앱입니다.
 
 ⠀
 ⠀
-## ③ 프로젝트 주요 기능
+## 프로젝트 주요 기능
 <img src="https://github.com/user-attachments/assets/abd209f1-022b-4c99-a8ce-035825fb6906"/>
 <img src="https://github.com/user-attachments/assets/770f40f2-186b-4587-b578-5bd31cf529e4"/>
 <img src="https://github.com/user-attachments/assets/97da243e-4441-41cb-8d80-d42cb59ac9fb"/>
 
 ⠀
 ⠀
-## ④ 프로젝트 팀원
+## 프로젝트 팀원
 <div align="center">
 <table>
   <tr>
@@ -58,7 +58,7 @@
 
 ⠀
 ⠀
-## ⑤ 프로젝트 기술
+## 프로젝트 기술
   ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=flat&logo=javascript&logoColor=black)
   ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
